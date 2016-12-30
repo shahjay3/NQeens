@@ -1,0 +1,24 @@
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\bin\Debug\nQueens.exe.config
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\bin\Debug\nQueens.exe
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\bin\Debug\nQueens.pdb
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\obj\Debug\nQueens.csprojResolveAssemblyReference.cache
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\obj\Debug\nQueens.exe
+c:\users\jayshah\documents\visual studio 2015\Projects\nQueens\nQueens\obj\Debug\nQueens.pdb
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\bin\Debug\nQueens.exe.config
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\obj\Debug\nQueens.exe
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\obj\Debug\nQueens.pdb
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\bin\Debug\nQueens.exe
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\bin\Debug\nQueens.pdb
+C:\Users\Jay\Desktop\Intelligent Systems\nQueens\nQueens\obj\Debug\nQueens.csprojResolveAssemblyReference.cache
+C:\Users\JayShah\Desktop\nQueens\nQueens\bin\Debug\nQueens.exe.config
+C:\Users\JayShah\Desktop\nQueens\nQueens\obj\Debug\nQueens.exe
+C:\Users\JayShah\Desktop\nQueens\nQueens\obj\Debug\nQueens.pdb
+C:\Users\JayShah\Desktop\nQueens\nQueens\bin\Debug\nQueens.exe
+C:\Users\JayShah\Desktop\nQueens\nQueens\bin\Debug\nQueens.pdb
+C:\Users\JayShah\Desktop\nQueens\nQueens\obj\Debug\nQueens.csprojResolveAssemblyReference.cache
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\bin\Debug\nQueens.exe.config
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\obj\Debug\nQueens.exe
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\obj\Debug\nQueens.pdb
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\bin\Debug\nQueens.exe
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\bin\Debug\nQueens.pdb
+C:\Users\JayShah\Desktop\nQueens - Copy\nQueens\obj\Debug\nQueens.csprojResolveAssemblyReference.cache
